@@ -1,5 +1,4 @@
-1.
-2..
-3...
-4....
-The end!
+1. git commit
+2. git add
+3. git push
+
