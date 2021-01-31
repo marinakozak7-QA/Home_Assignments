@@ -1,0 +1,35 @@
+{
+  "person": {
+    "name": "Marina",
+    "surname": "Kozak",
+    "married": true,
+    "age": 34,
+    "city": "Brest",
+    "education": "higher",
+    "color": "green",
+    "book": "Harry Potter",
+    "film": "Martix",
+    "music": "pop",
+    "video game": "Cyberpunk 2077",
+    "pets": [
+      {
+        "type": "cat",
+        "name": "Busya",
+        "color": "grey",
+        "age": 3
+      },
+      {
+        "type": "dog",
+        "name": "Fox",
+        "color": "red",
+        "age": 14
+      },
+      {
+        "type": "fish",
+        "name": "goldie",
+        "color": "orange",
+        "age": 1
+      }
+    ]
+  }
+}
